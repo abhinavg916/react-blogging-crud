@@ -1,1 +1,9 @@
-# react-blogging
+# React Blogging
+
+```
+npm start
+```
+
+```
+npm run build
+```
